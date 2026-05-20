@@ -4,6 +4,8 @@ A fast-paced, chaotic top-down cooking game built from scratch in Unity. This pr
 
 The core structural architecture of this project is based on the foundational design patterns taught by **Code Monkey**.
 
+![Gameplay Demo](images/KitchenChaosGameplay.gif)
+
 ---
 
 ## Technical Overview & Architecture
@@ -52,9 +54,8 @@ Behind the scenes testing for custom bounding volumes and continuous collision d
 
 See the state machine, audio binding, and event system operational in real time during this test slice:
 
-<video src="./images/KitchenChaos.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+[![Gameplay Demo](images/KitchenChaosGameplay.gif)](https://github.com/rajesh-puripanda/KitchenChaos/raw/main/images/KitchenChaos.mp4)
+
 ---
 
 ## How to Explore the Code
